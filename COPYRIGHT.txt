@@ -1,0 +1,7 @@
+Aplus Router OS
+Copyright (c) 2025 Aplus Networks
+
+This project is a custom firmware based on OpenWrt.
+All Aplus branding and custom modifications are proprietary.
+
+OpenWrt components remain licensed under GPLv2.
